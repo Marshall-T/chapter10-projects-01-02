@@ -1,7 +1,6 @@
 <?php
 
 include 'travel-data.php';
-include 'TravelPhoto.class.php';
 
 asort($continents);
 asort($countries);
